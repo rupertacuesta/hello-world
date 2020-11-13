@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+First repository for sharing code amongst other comsci students
